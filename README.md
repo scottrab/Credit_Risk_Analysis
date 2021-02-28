@@ -17,11 +17,11 @@ Undersampling: Accuracy score = .63, Precision = .99, and Recall score = .64.
 
 
 Combination of over & under sampling: Accuracy score = .64, Precision = .99, and ecall score = .58.
- ![](Over and Under.png)
+ ![](Over_and_Under.png)
 
 
 Balanced random forest classifier: Accuracy score = 1 , Precision = 1, and Recall score = .99. 
- ![](Balanced Random Forest.png)
+ ![](Balanced_Random_Forest.png)
 
 
 Easy ensemble ADABoost Classifier:Accuracy score = 1, Precision = 1, and Recall score = 1. 
