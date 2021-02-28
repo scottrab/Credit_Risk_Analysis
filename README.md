@@ -21,7 +21,7 @@ Combination of over & under sampling: Accuracy score = .64, Precision = .99, and
 
 
 Balanced random forest classifier: Accuracy score = 1 , Precision = 1, and Recall score = .99. 
- ![](Balanced_Random_Forest.png)
+ ![](BRF.png)
 
 
 Easy ensemble ADABoost Classifier:Accuracy score = 1, Precision = 1, and Recall score = 1. 
