@@ -28,3 +28,4 @@ Easy ensemble ADABoost Classifier:Accuracy score = 1, Precision = 1, and Recall 
  ![](AdaBoost.png)
 
 
+Reccomendation: the ADABoost Classifier model is the best with the highest accuracy, precision and recall scores compared to the others. 
