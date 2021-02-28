@@ -16,11 +16,11 @@ Undersampling: Accuracy score = .60, Precision = .99, and Recall score = .64.
  ![](Undersampling.png)
 
 
-Combination of over & under sampling: Accuracy score = .64, Precision = .99, and ecall score = .58.
+Combination of over & under sampling: Accuracy score = .60, Precision = .99, and ecall score = .58.
  ![](Over_and_Under.png)
 
 
-Balanced random forest classifier: Accuracy score = 1 , Precision = 1, and Recall score = .999. 
+Balanced random forest classifier: Accuracy score = .999 , Precision = 1, and Recall score = 1. 
  ![](BRF.png)
 
 
