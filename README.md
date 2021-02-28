@@ -5,7 +5,7 @@ The purpose of this analysis was to test and compare different models to predict
 ### Analysis
 
 Oversampling: Accuracy score = .5, Precision = .99, and Recall score = .99. 
-
+ ![](Oversampling.png)
 
 
 Smote Oversampling: Accuracy score = .62, Precision = .99, and Recall score = .64. 
