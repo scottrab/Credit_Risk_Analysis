@@ -12,7 +12,7 @@ Smote Oversampling: Accuracy score = .60, Precision = .99, and Recall score = .6
  ![](SMOTE.png)
 
 
-Undersampling: Accuracy score = .63, Precision = .99, and Recall score = .64. 
+Undersampling: Accuracy score = .60, Precision = .99, and Recall score = .64. 
  ![](Undersampling.png)
 
 
@@ -20,7 +20,7 @@ Combination of over & under sampling: Accuracy score = .64, Precision = .99, and
  ![](Over_and_Under.png)
 
 
-Balanced random forest classifier: Accuracy score = 1 , Precision = 1, and Recall score = .99. 
+Balanced random forest classifier: Accuracy score = 1 , Precision = 1, and Recall score = .999. 
  ![](BRF.png)
 
 
