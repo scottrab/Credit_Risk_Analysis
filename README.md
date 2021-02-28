@@ -8,7 +8,7 @@ Oversampling: Accuracy score = .5, Precision = .99, and Recall score = .99.
  ![](Oversampling.png)
 
 
-Smote Oversampling: Accuracy score = .62, Precision = .99, and Recall score = .64. 
+Smote Oversampling: Accuracy score = .60, Precision = .99, and Recall score = .64. 
  ![](SMOTE.png)
 
 
